@@ -1,17 +1,45 @@
-# Microsoft Build Japan
-本日(2023/06/28)に私たちMicrosoft Learn Student Ambassadorsは二つのハンズオンをやらせていただきました！
+# honki-base
 
-それぞれ下記にまとまっております！
-ぜひご覧ください～♪
+### Setup
 
-# Azure FunctionsとChatGPT APIでLINE Botをつくってみよう
-![](./img/Micorsoft_Build_1215.png)
-概要を書く
+```
+npm i
+```
 
-<br><[記事はこちらから](./Book1.md)><br>
+## GitHub Pages settings
 
+Settings をクリックして左メニューから Pages を移動します。
 
-# 学生ハンズオン ~ChatGPTを使ったLINE BotをAzureで作成してみよう！~
-![](./img/Micorsoft_Build_1415.png)
-概要を書く
-<br><[記事はこちらから](./Book2.md)><br>
+- Source
+  - Deploy from branch
+- Branch
+  - main
+  - /doc
+
+で設定して保存します。
+
+## build
+
+```
+npm run build
+```
+
+ビルドします。
+
+## 初コミット
+
+コミットします。
+
+## 表示確認
+
+Settings をクリックして左メニューから Pages を移動します。
+
+GitHub Pages のところに、公開されたページが書かれているので Visit site をクリックしてページを見に行きます。
+
+## serve
+
+ローカルで確認したいときは以下のコマンドを実行して http://localhost:4000/ で表示します。
+
+```
+npm run serve
+```
