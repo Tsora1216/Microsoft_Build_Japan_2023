@@ -14,4 +14,5 @@
 # 学生ハンズオン ~ChatGPTを使ったLINE BotをAzureで作成してみよう！~
 ![](./img/Micorsoft_Build_1415.png)
 概要を書く
+
 <br><[記事はこちらから](./Book2.md)><br>
