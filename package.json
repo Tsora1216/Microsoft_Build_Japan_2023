@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1ft-seabass/honkit-base.git"
+    "url": "git+https://github.com/Tsora1216/Microsoft_Build_Japan_2023.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/1ft-seabass/honkit-base/issues"
+    "url": "https://github.com/Tsora1216/Microsoft_Build_Japan_2023/issues"
   },
-  "homepage": "https://github.com/1ft-seabass/honkit-base#readme",
+  "homepage": "https://github.com/Tsora1216/Microsoft_Build_Japan_2023#readme",
   "devDependencies": {
     "honkit": "^3.6.20"
   },

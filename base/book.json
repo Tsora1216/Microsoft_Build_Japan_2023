@@ -1,6 +1,6 @@
 {
-  "title":"タイトル",
-  "description":"詳細説明",
+  "title":"Microsoft Build Japan",
+  "description":"学生ハンズオン ~ChatGPTを使ったLINE BotをAzureで作成してみよう！~ ",
   "language":"ja",
   "plugins":[
     "anchors",
